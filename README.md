@@ -5,6 +5,9 @@
 
 This project demonstrates a responsive multi-section webpage built using modern CSS layout techniques—Flexbox and CSS Grid. It showcases how to structure content flexibly, ensuring a seamless user experience across desktop, tablet, and mobile devices.
 
+## Live Demo
+ https://dvchege.github.io/responsive-web-layout/
+
 ## Features
 
 - **Flexible Navigation Bar:** Built with Flexbox for smooth horizontal alignment and responsive wrapping on smaller screens.
